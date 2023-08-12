@@ -210,7 +210,7 @@ loconav:
 
 small:
   rssm.deter: 512
-  .*\.cnn_depth: 24
+  .*\.cnn_depth: 32
   .*\.units: 512
   .*\.layers: 2
 
